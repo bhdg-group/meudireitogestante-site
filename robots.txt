@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Bloquear arquivos internos
+Disallow: /google-apps-script.js
+Disallow: /supabase-setup.sql
+
+# Sitemap
+Sitemap: https://meudireitogestante.com.br/sitemap.xml
